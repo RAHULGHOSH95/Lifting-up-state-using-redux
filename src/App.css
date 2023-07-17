@@ -1,0 +1,17 @@
+.div-parent{
+  height: 150px;
+  width: 600px;
+  margin-left: 30%;
+  margin-top: 5%;
+  background-color: yellow;
+  border: solid;
+}
+
+.div-child{
+  height: 150px;
+  width: 600px;
+  margin-left: 30%;
+  margin-top: 5%;
+  background-color: skyblue;
+  border: solid;
+}
